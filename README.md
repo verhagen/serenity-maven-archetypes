@@ -1,4 +1,4 @@
-# ![Serenity Logo](http://1.gravatar.com/blavatar/55a4fe3405409bebd7c8f1f18b2c3c0f?s=16) Serenity Maven Archetypes
+# <img src="http://1.gravatar.com/blavatar/55a4fe3405409bebd7c8f1f18b2c3c0f?s=16" alt="Serenity Logo" width="32" /> Serenity Maven Archetypes
 
 This project contains the following Serenity Maven Archetypes:
 
